@@ -20,7 +20,8 @@ To add your card to this page, follow these steps:
 ## 🌍 The Wall of Legends
 
 
-<table> <tr>
+<table> 
+<tr>
 
 <td align="center" width="33%">
   <div style="border: 2px solid #0b9b25; border-radius: 20px; padding: 20px; margin: 10px; min-height: 250px;">
@@ -48,6 +49,11 @@ To add your card to this page, follow these steps:
   </div>
 </td>
 
+</tr>
+
+
+<tr>
+<!-- Copy Paste the tr block after 3 td in a tr -->
 </tr>
 </table>
 
